@@ -13,15 +13,3 @@ If you discover a security vulnerability within ultimate POS, please send an e-m
 ## License
 
 The Ultimate POS software is licensed under the [Codecanyon license](https://codecanyon.net/licenses/standard).
-
- _____   _____    _____   _          __  _____   _____   _____   _____   _____      _____    _   _  
-|  _  \ |  _  \  /  _  \ | |        / / | ____| |  _  \ |  _  \ | ____| |  _  \    |  _  \  | | | | 
-| |_| | | |_| |  | | | | | |  __   / /  | |__   | |_| | | |_| | | |__   | |_| |    | |_| |  | | | | 
-|  ___/ |  _  /  | | | | | | /  | / /   |  __|  |  _  { |  _  { |  __|  |  _  /    |  _  /  | | | | 
-| |     | | \ \  | |_| | | |/   |/ /    | |___  | |_| | | |_| | | |___  | | \ \    | | \ \  | |_| | 
-|_|     |_|  \_\ \_____/ |___/|___/     |_____| |_____/ |_____/ |_____| |_|  \_\(_)|_|  \_\ \_____/ 
-
-
-		http://prowebber.ru/
-		
-		All for Webmaster`s. FREE!
